@@ -1,0 +1,13 @@
+artifact_path: D:/ML OPS/Assignment#4/Notebooks
+flavors:
+  python_function:
+    env: conda.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    python_version: 3.8.8
+  sklearn:
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 0.24.1
+run_id: d7286b28e8a549c9afc15fb67a4c2b30
+utc_time_created: '2022-01-05 21:26:42.129549'

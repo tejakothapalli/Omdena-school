@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/d7286b28e8a549c9afc15fb67a4c2b30/artifacts
+end_time: 1641418353492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d7286b28e8a549c9afc15fb67a4c2b30
+run_uuid: d7286b28e8a549c9afc15fb67a4c2b30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1641417883552
+status: 3
+tags: []
+user_id: NAGATEJA CHOWDARY
